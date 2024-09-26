@@ -1,7 +1,7 @@
 # Develemos algunos mitos
 
 	Planteamiento: 2022.02.15
-	Entreta: 2022.02.24
+	Entrega: 2022.02.24
 
 En esta primera unidad comenzamos a estudiar qué es un sistema
 operativo y cómo *opera su magia*. Apenas vamos calentando
@@ -19,10 +19,10 @@ poco más complejos. Claro, también pueden elegir trabajar
 individualmente con un artículo complejo (pero serán calificados en
 pie de igualdad con los demás).
 
-<!-- ## Calificaciones y comentarios -->
+## Calificaciones y comentarios
 
-<!-- Pueden ya consultar las [calificaciones y comentarios a sus -->
-<!-- proyectos](./calificaciones.org). -->
+Pueden ya consultar las [calificaciones y comentarios a sus
+proyectos](./calificaciones.org).
 
 ## Los artículos
 
